@@ -1,6 +1,6 @@
 # _About Me_
 
-#### _Git,GitHub,HTML,CSS, 08/08/2019_
+#### _Git,GitHub,HTML,CSS 08/10/2019_
 
 #### By _**Zubeyde Sisman**_
 
