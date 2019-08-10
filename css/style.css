@@ -1,17 +1,23 @@
-.proje {
-  color: red;
+.second {
+  color: #2f5687;
   font-style: italic;
 }
 
-.ikinci {
-  color: blue;
+.proje {
+  color: red;
   font-style: italic;
 }
 
 .special {
   color: red;
 }
+
 .ucuncu {
-  color:black;
+  color: black;
+  font-style: italic;
+}
+
+.dorduncu {
+  color: maroon;
   font-style: italic;
 }
