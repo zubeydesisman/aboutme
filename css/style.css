@@ -21,3 +21,24 @@
   color: maroon;
   font-style: italic;
 }
+img {
+  float: right;
+}
+.proje {
+  width: 300px;
+  float: left;
+}
+.dorduncu {
+  witdh: 300px;
+  float: left;
+}
+
+.ucuncu {
+  witdh: 300px;
+  float: left;
+}
+.proje {
+  margin: 6px;
+  border: 2px black;
+  padding: 12px;
+  background-color: #F5E7CA;
