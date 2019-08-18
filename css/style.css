@@ -9,7 +9,7 @@
 }
 
 .special {
-  color: red;
+  color: black;
 }
 
 .ucuncu {
@@ -21,8 +21,27 @@
   color: maroon;
   font-style: italic;
 }
-img {
+.img1 {
   float: right;
+}
+
+.second {
+  overflow: auto;
+}
+.second {
+  border: 10px solid #466885;
+  padding: 50px;
+  background-color: #EDF0F2;
+}
+.second {
+  overflow: auto;
+}
+
+.img2 {
+  float: right;
+}
+.second {
+  overflow: auto;
 }
 .proje {
   width: 300px;

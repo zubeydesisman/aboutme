@@ -24,11 +24,11 @@ _Create About Me project as a portfolio_
 
 ## Technologies Used
 
-* git
-* github   
+* Git
+* Github   
 * HTML  
-* atom  
-* terminal  
+* Atom  
+* Terminal  
 * Bootstrap
 
 ### License
